@@ -1,7 +1,7 @@
 # User intent analysis
 
-Notebook:
+Notebook: Notebooks folder contains jupyter notebooks, where I did extensive analysis. There are 6 notebooks.
 
-SRC:
+SRC: src file contains train, test and cross validation files. There I have files for practicing multiple models, cross validating the results on unseen data, hyperparameter tuning and feature selection
 
-PDF:
+PDF: Presentation file.
